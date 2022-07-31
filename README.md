@@ -11,6 +11,6 @@ Run the files:
 `hw3problem1` <br>
 `hw3problem2` <br>
 
-Forward Kinematics - Product of Exponentials in the body frame.
-Inverse Kinematics - Damped Least Squares Method using the Analytical Jacobian.
-The Manipulability Ellipsoid is plotted.
+Forward Kinematics - Product of Exponentials in the body frame. <br>
+Inverse Kinematics - Damped Least Squares Method using the Analytical Jacobian. <br>
+The Manipulability Ellipsoid is plotted. <br>
