@@ -8,8 +8,8 @@ See https://petercorke.com/toolboxes/robotics-toolbox/.
 
 Run the files:
 
-`hw3problem1`
-`hw3problem2`
+`hw3problem1` <br>
+`hw3problem2` <br>
 
 Forward Kinematics - Product of Exponentials in the body frame.
 Inverse Kinematics - Damped Least Squares Method using the Analytical Jacobian.
